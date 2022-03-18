@@ -9,3 +9,25 @@ body{
     background-color: greenyellow;
     border: 10px inset green;
 }
+.off{
+    width:250px;
+    padding: 7px;
+    margin: 30px auto 0px auto;
+    background-color: red;
+    border: 10px inset firebrick;
+}
+
+.test1{
+    width:250px;
+    padding: 7px;
+    margin: 30px auto 0px auto;
+    background-color: greenyellow;
+    border: 10px inset green;
+}
+.test2{
+    width:250px;
+    padding: 7px;
+    margin: 30px auto 0px auto;
+    background-color: red;
+    border: 10px inset firebrick;
+}
