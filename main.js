@@ -1,3 +1,3 @@
 const wynik = document.getElementById('wynik');
 
-wynik.innerHTML = "Test";
+// wynik.innerHTML = "Test";
